@@ -1,0 +1,12 @@
+C:\Users\HGMI2\Desktop\Libraries\SortArray\SortArray\bin\Release\SortArray.dll
+C:\Users\HGMI2\Desktop\Libraries\SortArray\SortArray\bin\Release\SortArray.pdb
+C:\Users\HGMI2\Desktop\Libraries\SortArray\SortArray\obj\Release\SortArray.csprojAssemblyReference.cache
+C:\Users\HGMI2\Desktop\Libraries\SortArray\SortArray\obj\Release\SortArray.csproj.CoreCompileInputs.cache
+C:\Users\HGMI2\Desktop\Libraries\SortArray\SortArray\obj\Release\SortArray.dll
+C:\Users\HGMI2\Desktop\Libraries\SortArray\SortArray\obj\Release\SortArray.pdb
+A:\Nocz\Proyectos\Libraries\SortArray\SortArray\bin\Release\SortArray.dll
+A:\Nocz\Proyectos\Libraries\SortArray\SortArray\bin\Release\SortArray.pdb
+A:\Nocz\Proyectos\Libraries\SortArray\SortArray\obj\Release\SortArray.csprojAssemblyReference.cache
+A:\Nocz\Proyectos\Libraries\SortArray\SortArray\obj\Release\SortArray.csproj.CoreCompileInputs.cache
+A:\Nocz\Proyectos\Libraries\SortArray\SortArray\obj\Release\SortArray.dll
+A:\Nocz\Proyectos\Libraries\SortArray\SortArray\obj\Release\SortArray.pdb

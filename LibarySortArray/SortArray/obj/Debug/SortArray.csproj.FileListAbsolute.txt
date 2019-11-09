@@ -1,0 +1,11 @@
+C:\Users\HGMI2\Desktop\Libraries\SortArray\SortArray\bin\Debug\SortArray.dll
+C:\Users\HGMI2\Desktop\Libraries\SortArray\SortArray\bin\Debug\SortArray.pdb
+C:\Users\HGMI2\Desktop\Libraries\SortArray\SortArray\obj\Debug\SortArray.csprojAssemblyReference.cache
+C:\Users\HGMI2\Desktop\Libraries\SortArray\SortArray\obj\Debug\SortArray.csproj.CoreCompileInputs.cache
+C:\Users\HGMI2\Desktop\Libraries\SortArray\SortArray\obj\Debug\SortArray.dll
+C:\Users\HGMI2\Desktop\Libraries\SortArray\SortArray\obj\Debug\SortArray.pdb
+A:\Nocz\Proyectos programación C#\LibarySortArray\SortArray\bin\Debug\SortArray.dll
+A:\Nocz\Proyectos programación C#\LibarySortArray\SortArray\bin\Debug\SortArray.pdb
+A:\Nocz\Proyectos programación C#\LibarySortArray\SortArray\obj\Debug\SortArray.csprojAssemblyReference.cache
+A:\Nocz\Proyectos programación C#\LibarySortArray\SortArray\obj\Debug\SortArray.dll
+A:\Nocz\Proyectos programación C#\LibarySortArray\SortArray\obj\Debug\SortArray.pdb
